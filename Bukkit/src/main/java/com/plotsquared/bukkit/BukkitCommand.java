@@ -2,7 +2,7 @@
  * PlotSquared, a land and world management plugin for Minecraft.
  * Copyright (C) IntellectualSites <https://intellectualsites.com>
  * Copyright (C) IntellectualSites team and contributors
- *
+ * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
